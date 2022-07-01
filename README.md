@@ -1,4 +1,4 @@
-## I'm Ezequiel, a Data Science student, but you can call Loira my nickname for friends✨
+## I'm Ezequiel ✨
 <div align="center">
   <a href="https://github.com/Luzia-Silva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luzia-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
